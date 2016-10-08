@@ -1,9 +1,8 @@
-name: "my-website"
+name: "PML Project"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "PML Project"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "PML Project"
+      href: PML-main.html
+
