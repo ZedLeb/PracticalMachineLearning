@@ -229,6 +229,6 @@ print(resultsValidation)
 
 
 
-#References
+##References
 Kuhn, M (2013) [*Predictive Modeling with R and the caret Package*](https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/kuhn/user_caret_2up.pdf) viewed 2016/09/30
 
